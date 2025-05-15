@@ -17,9 +17,8 @@ I'm a Software Engineer specializing in full-stack development, cloud computing,
 ## Professional Experience
   Software Developer at Ericsson-LG, Seoul
   - Feb 2022 - Present
-  - Led 5G RAN software projects, optimizing performance by 30% and automating processes.
-  Integrated AWS services to reduce API response times by 40%.
-  Improved debugging tools, reducing software debugging time by 15%.
+  - Led the development of an innovative automated load-balancing algorithm, enhancing resource distribution efficiency across 5 network partitions and
+improving system responsiveness by 40% in real-time conditions.
   
   Backend Developer at RoWork, Seoul
   - Mar 2021 - Dec 2021
@@ -32,8 +31,6 @@ I'm a Software Engineer specializing in full-stack development, cloud computing,
 
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkmalMakh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AkmalMakh&theme=dark&hide_border=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkmalMakh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
