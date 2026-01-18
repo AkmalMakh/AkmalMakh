@@ -1,36 +1,53 @@
-# 💫 About Me:
-👋 Hi, I'm Akmal Makhmudov!
+# About Me:
+ Hi, I'm Akmal Makhmudov!
 
-I'm a Software Engineer specializing in full-stack development, cloud computing, and performance optimization. Proficient in C++, Java, Python, and AWS services, I love building scalable, high-quality applications. Explore my projects to see how I leverage cutting-edge technologies to solve real-world problems. Always curious and eager to learn, I aim to contribute to innovative solutions that make a difference.
+I’m a founder with a strong technical background, building data-driven products from 0 to 1. I focus on problem discovery, system design, and execution, and stay hands-on with backend architecture, data pipelines, and practical AI. I’m currently building StylerX alongside my role as a senior software engineer in large-scale production systems.
+## Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akmalmakhmudov)  
 
+---
 
-## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akmalmakhmudov)
+## Professional Experience  
 
-## Skills
-- **Programming Languages**: C, C++, Java, Python, Erlang
-- **Cloud & DevOps**: AWS, Docker, Kubernetes, Jenkins
-- **Web Development**: Angular, React, Django, Node.js
-- **Databases**: MySQL, MongoDB, Redis, Amazon DynamoDB
-- **AI/ML**: TensorFlow, scikit-learn, Pandas
+### **Founder / CEO — StylerX**  
+*2024 – Present*  
+https://www.stylerx.kr/  
+- Building an AI-driven shopping assistant from **0 to 1**, owning product direction and technical execution  
+- Designed backend architecture, data pipelines, and AI evaluation workflow  
+- Built systems to collect, clean, and structure large-scale fashion data for decision support  
+- Led technical execution that resulted in **2nd place at HackSeoul 2025 (33 teams)**
 
-## Professional Experience
-  Software Developer at Ericsson-LG, Seoul
-  - Feb 2022 - Present
-  - Led the development of an innovative automated load-balancing algorithm, enhancing resource distribution efficiency across 5 network partitions and
-improving system responsiveness by 40% in real-time conditions.
-  
-  Backend Developer at RoWork, Seoul
-  - Mar 2021 - Dec 2021
-  - Developed RESTful APIs using Java and AWS, enhancing scalability and security.
-  Improved API efficiency by 50% through optimization and architecture enhancements.
-  
-  Software Programming Instructor at Mirae Coding, Seoul
-  - Jun 2021 - Feb 2022
-  - Taught Data Structures, Algorithms, and Python, guiding students through real-world projects.
+---
 
+### **Senior Software Developer — Ericsson-LG, Seoul**  
+*Feb 2022 – Present*  
+- Led development of a load-balancing algorithm across 5 network partitions  
+- Improved real-time system responsiveness by **~40%** under production traffic  
+- Worked on performance-critical systems in large-scale telecom infrastructure
 
-## GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkmalMakh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### **Backend Developer — RoWork, Seoul**  
+*Mar 2021 – Dec 2021*  
+- Developed and optimized RESTful APIs using Java and AWS  
+- Improved API efficiency by **~50%** through architectural and performance improvements
+
+---
+
+### **Software Programming Instructor — Mirae Coding, Seoul**  
+*Jun 2021 – Feb 2022*  
+- Taught Data Structures, Algorithms, and Python  
+- Guided students through applied, real-world programming projects
+
+---
+
+## Core Skills  
+
+- **Languages**: C, C++, Java, Python, Erlang  
+- **Backend & Systems**: API design, distributed systems, performance optimization  
+- **Cloud & DevOps**: AWS (EC2, ECS, Lambda, S3, DynamoDB), Docker, Kubernetes, CI/CD  
+- **Frontend**: React, Angular, Node.js  
+- **Data & AI**: Data pipelines, scraping & data refinement, TensorFlow, scikit-learn, Pandas  
+- **Architecture**: End-to-end system design, 0→1 product builds
+
+---
